@@ -158,4 +158,4 @@ This analysis provides decision-support insights for:
 
 ## 🚀 Author
 
-SQL Data Analysis Project — ABC Orders
+komal
